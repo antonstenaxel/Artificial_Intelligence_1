@@ -1,0 +1,20 @@
+1. 1 -> solved
+	2 -> cannot be solved (is also unsolvable)
+	3 -> cannot be solved (is also unsolvable)
+	4 -> solved in 3 times
+	5 -> solved
+	6 -> solved
+	7 -> solved
+	8 -> not solved after 5 times
+	9 -> solved after 2 times
+	10 -> solved after 3 times
+	11 -> not solved after 5 times
+	12 -> not solved after 5 times
+	13 -> not solved after 5 times
+	14 -> not solved after 5 times
+	15 -> not solved after 5 times
+	16 -> not solved after 5 times
+
+2. ?
+
+3. Improvements after making the algorithms
