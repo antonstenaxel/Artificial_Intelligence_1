@@ -1,0 +1,11 @@
+1.
+For n=3: Max will take 2 matches, so there will be only 1 left for Min. So Max will win.
+For n=4: Max will take 3 matches, so there will be only 1 left for Min. So Max will win.
+For n=5: If Max takes 1 match, Min will do the strategy for n=4 and wins.
+			If Max takes 2 matches,  Min will do the strategy for n=3 and wins.
+			If Max takes 3 matches, Min will take 1 match and Max has to take the last one, so Min wins again.
+			This means that Min wins.
+For n=6: Max will take 1 match, so Min has 5 matches left and automatically loses the same way as Max as he begins with 5 matches. Max wins.
+
+2. a) is implemented
+	b) i don't get it :'(
